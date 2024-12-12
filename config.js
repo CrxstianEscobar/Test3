@@ -24,8 +24,8 @@ global.prems = []
 
 global.packname = '𝙎𝙝𝙖𝙙𝙤𝙬 𝘽𝙤𝙩 - 𝙈𝘿'
 global.botname = '𝙎𝙝𝙖𝙙𝙤𝙬 𝘽𝙤𝙩 - 𝙈𝘿'
-global.wm = '𝙎𝙝𝙖𝙙𝙤𝙬 𝙈𝘿'
-global.author = '𝘽𝙮 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣'
+global.wm = '𝙎𝙝𝙖𝙙𝙤𝙬 𝘽𝙤𝙩 - 𝙈𝘿'
+global.author = '𝙐𝙨𝙭𝙧 𝘾𝙧𝙭𝙭𝙨 🥀'
 global.dev = '𝙎𝙝𝙖𝙙𝙤𝙬 𝘽𝙤𝙩 - 𝙈𝘿'
 global.textbot = '𝙎𝙝𝙖𝙙𝙤𝙬 𝘽𝙮 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣'
 global.vs = '1.4.0'
@@ -44,7 +44,8 @@ global.ianurl = fs.readFileSync('./storage/img/crowurl.jpg')
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.grupo = 'https://chat.whatsapp.com/Cj8oTiVQOvIISylM5yi5DP' //Shadow Bot MD
-global.grupo2 = 'https://chat.whatsapp.com/EvNTkbgO5trDZSndzWWwXn' //Heavenly Community
+global.grupo2 = 'https://chat.whatsapp.com/Cj8oTiVQOvIISylM5yi5DP' //Shadow Bot MD
+global.grupo3 = 'https://chat.whatsapp.com/Cj8oTiVQOvIISylM5yi5DP' //Shadow Bot MD
 global.channel = 'https://whatsapp.com/channel/0029Vafxnat8qIzxOjUrwP41' //Heavenly Channel 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -62,7 +63,7 @@ global.moment = moment
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.multiplier = 69 
-global.maxwarn = '2' // máxima advertencias
+global.maxwarn = '3' // máxima advertencias
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
