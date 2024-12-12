@@ -43,10 +43,9 @@ global.ianurl = fs.readFileSync('./storage/img/crowurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/El3yP6HpuBm2lzVK2r4BwX'
-global.grupo2 = 'https://chat.whatsapp.com/El3yP6HpuBm2lzVK2r4BwX'
-global.grupo3 = 'https://chat.whatsapp.com/El3yP6HpuBm2lzVK2r4BwX'
-global.channel = 'https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d'
+global.grupo = 'https://chat.whatsapp.com/Cj8oTiVQOvIISylM5yi5DP' //Shadow Bot MD
+global.grupo2 = 'https://chat.whatsapp.com/EvNTkbgO5trDZSndzWWwXn' //Heavenly Community
+global.channel = 'https://whatsapp.com/channel/0029Vafxnat8qIzxOjUrwP41' //Heavenly Channel 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
